@@ -7,5 +7,10 @@ body{
 	padding:0 10px}
 
 h1,h2,h3{
-	font-family: 'Sonsie One', cursive;
+	font-family: 'Seymour One', sans-serif;
 	line-height:1.2}
+
+p{
+	font-family: 'Noto Sans', sans-serif;
+
+}
