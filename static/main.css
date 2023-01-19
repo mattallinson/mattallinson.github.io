@@ -8,15 +8,18 @@ body{
 }
 
 h1,h2,h3{
-	font-family: 'Seymour One', sans-serif;
+	font-family: 'Yellowtail', cursive;
 	line-height:1.2
+
 }
 
-p{
+
+
+p,a,li{
 	font-family: 'Noto Sans', sans-serif;
 }
 
-a:hover,p:hover,h1:hover {
+a:hover{
     background-color: fuchsia;
     color: white;
 }
@@ -26,18 +29,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 100%;
     padding: 5px;
     border: 5px hidden;
 }
 
-img:hover {
-    border: 5px solid fuchsia;
-    padding: 0px;
-
-}
-
-::selection{
-	background-color: fuchsia,
-	color: yellow;
-}
